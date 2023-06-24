@@ -1,3 +1,3 @@
 # standard-wh
 
-cheat written in python, works in competitive modes.
+Cheat CS:GO written in python, works in competitive modes.
